@@ -1,6 +1,8 @@
+import { Button } from '@/components/ui/button';
+
 function App() {
   return (
-    <p>first commit</p>
+    <Button>click me</Button>
   )
 }
 
